@@ -26,13 +26,6 @@ It helps users **track skills, maintain learning streaks, log daily progress, an
 
 ---
 
-## 📸 Take a look
-### 1. Login & SignUp Page  
-<img src="assets/screenshots/login.jpeg" width="250"> <img src="images/screenshots/signup.jpeg" width="250">  
-
-
----
-
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally:
