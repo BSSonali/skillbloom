@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119785758329",
+    "project_id": "skillbloom-d2541",
+    "storage_bucket": "skillbloom-d2541.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119785758329:android:8af31040d3d886e343fea8",
+        "android_client_info": {
+          "package_name": "com.example.skillbloom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsN7GC9j8EF8zdiD7YmmtDsKmSGq3UWqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
