@@ -27,10 +27,9 @@ It helps users **track skills, maintain learning streaks, log daily progress, an
 ---
 
 ## 📸 Take a look
+### 1. Login & SignUp Page  
+<img src="assets/login.jpeg" width="250"> <img src="images/signup.jpeg" width="250">  
 
-| Login Page |Signup Page | 
-|-----------|-----------|----------------|
-| ![Login](assets/login.jpeg) | ![Signup](assets/signup.jpeg)
 
 ---
 
